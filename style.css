@@ -88,3 +88,91 @@
 
 }
 
+body {
+    background-color: #2b2d30;
+}
+
+.img {
+    width: 200px;
+    margin-top: 10%;
+
+}
+
+.jesien {
+    background: #615b5b;
+    display: inline-block;
+    margin-top: 600px;
+    border: #2b2d30;
+    width: 90%;
+    height: 400px;
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+
+.jesien p {
+    color: #c9b9af;
+    font-size: 26px;
+    margin-left: 20%;
+    display: inline-block;
+}
+
+.jesien h1 {
+    color: #dd8d5a;
+    font-size: 32px;
+    margin-left: 20%;
+    margin-top: 10%;
+}
+
+.jesien::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.column {
+    float: left;
+    width: 30%;
+    padding: 10px;
+
+}
+
+.zima {
+    background: #615b5b;
+    display: inline-block;
+    margin-top: 800px;
+    border: #2b2d30;
+    width: 90%;
+    height: 400px;
+    text-align: center;
+    margin-left: 5%;
+    margin-right: 5%;
+
+}
+
+.zima p {
+    color: #c9b9af;
+    font-size: 26px;
+    margin-left: 20%;
+    display: inline-block;
+}
+
+.zima h1 {
+    color: #dd8d5a;
+    font-size: 32px;
+    margin-left: 20%;
+    margin-top: 10%;
+}
+
+.zima::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+
+.img2 {
+    width: 400px;
+    margin-top: 10%;
+
+}
